@@ -38,10 +38,10 @@ Network.
 The author has been provided with a folder that is titled data weed classification examine classification
 capabilities. The folder includes a Val set, a Test set, and a Train set; for further information, see table 1.
 Table 1: Illustrate the information in the train, test, and val set of the data weed classification.
-DataSet      Cleavers    Charlock    Total
-Train          208         272        480
-Val            90          58         148
-Test           90          68         158
+DataSet      Cleavers    Charlock  
+Train          208         272        
+Val            90          58         
+Test           90          68        
 
 
 #Objectives
